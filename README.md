@@ -1,2 +1,2 @@
 # basic-todo-app-js
- A Basic Todo app with Javascript
+Basic To Do app with JavaScript, It uses cookies to store todo list.
